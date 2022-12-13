@@ -1,0 +1,22 @@
+{
+  "name": "DYDemoTest",
+  "version": "0.1.0",
+  "summary": "A short description of DYDemoTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lt_felicity@163.com/DYDemoTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lt_felicity@163.com": "bjliutong1@corp.netease.com"
+  },
+  "source": {
+    "git": "https://github.com/lt_felicity@163.com/DYDemoTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DYDemoTest/Classes/**/*"
+}
