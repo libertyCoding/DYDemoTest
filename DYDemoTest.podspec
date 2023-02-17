@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DYDemoTest'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '组件测试'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-组件测试
+组件测试hahahahaahhah
                        DESC
 
   s.homepage         = 'https://github.com/libertyCoding/DYDemoTest'
